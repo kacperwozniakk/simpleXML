@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<offer>
+	<id><![CDATA[5086]]></id>
+	<name><![CDATA[Ergonomic Frozen Fish]]></name>
+	<category><![CDATA[Incredible]]></category>
+	<description><![CDATA[Molestiae et et esse temporibus iure numquam fugiat impedit dolor molestiae neque mollitia doloremque aut minus debitis officia ut alias earum voluptas quas velit consequatur qui aut possimus ut corporis quis aut numquam est sint unde sint aliquam qui qui dolor distinctio accusamus quae eveniet sit et itaque dolorem aut ea quia et repellat delectus quaerat aperiam blanditiis repellat esse architecto inventore delectus enim voluptates non hic amet ut aut aut et quis earum pariatur ut ex eos in sed sit ut quo inventore et quo officia suscipit tempore doloremque rerum iusto aperiam quae quas laboriosam et et quia facere qui facilis magni earum perferendis rerum saepe accusantium dolorem nostrum nam et et sequi nam aliquam et facilis repellendus omnis impedit minus eligendi ipsum et quidem qui corrupti possimus est iusto alias libero illum voluptate vel blanditiis minus dolorem voluptas at eum laborum aut architecto maxime voluptatem et debitis ab enim neque eum aliquid quis officiis quidem molestiae sint est vero voluptas dolores qui commodi aspernatur eius numquam eos voluptatem voluptatem praesentium rerum voluptatibus doloremque labore iste ex cupiditate asperiores tenetur voluptatem dolorem quo aut corrupti omnis iusto mollitia eligendi eum natus repudiandae error porro quisquam eum eligendi aut officiis.]]></description>
+	<price><![CDATA[219.57 EUR]]></price>
+	<url><![CDATA[https://example.com/product/5086]]></url>
+	<image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+	<opening_times><![CDATA[{"1":[{"opening":"10:00","closing":"21:00"}],"2":[{"opening":"10:00","closing":"21:00"}],"3":[{"opening":"10:00","closing":"21:00"}],"4":[{"opening":"10:00","closing":"21:00"}],"5":[{"opening":"10:00","closing":"21:00"}],"6":[{"opening":"10:00","closing":"21:00"}],"7":[{"opening":"10:00","closing":"20:00"}],"timezone":"Europe/Warsaw"}]]></opening_times>
+<is_active>true</is_active></offer>
